@@ -1,4 +1,4 @@
-#QtGifImageViewerWidget
+#Qt Gif Image Viewer Widget
 
   This project is the small example of Qt custom widgets. 
   It use the QLabel to show the image and .gif file. 
